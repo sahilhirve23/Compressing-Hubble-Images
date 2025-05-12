@@ -6,8 +6,8 @@ The training objective is to minimize the difference between the original and re
 
 Mean Squared Error (MSE): Measures pixel-wise reconstruction error
 
-MSE
 ![{B7AE0764-4C0F-4BD6-BBA0-5F0E41F634D3}](https://github.com/user-attachments/assets/bc6125b3-d018-4114-85b8-4e496ff792e7)
+
 Structural Similarity Index Measure (SSIM): Evaluates perceptual similarity based on luminance, contrast, and structure.
 
 Perceptual Loss: Utilizes a pre-trained VGG network to capture high-level semantic and texture information that is perceptually important to human vision.
